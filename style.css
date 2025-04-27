@@ -1,0 +1,58 @@
+/* Artemaya App Styling */
+
+/* Main page styling */
+.main-header {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #4a4a4a;
+}
+
+/* Chat container styling */
+.chat-container {
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* User message styling */
+.user-message {
+    background-color: #e6f7ff;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 10px 0;
+    max-width: 80%;
+    align-self: flex-end;
+}
+
+/* Assistant message styling */
+.assistant-message {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 10px 0;
+    max-width: 80%;
+    align-self: flex-start;
+}
+
+/* Input box styling */
+.input-box {
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+}
+
+/* Button styling */
+.stButton>button {
+    border-radius: 20px;
+    background-color: #4f8bf9;
+    color: white;
+    font-weight: bold;
+}
+
+/* Footer styling */
+.footer {
+    margin-top: 50px;
+    color: #888;
+    font-size: 12px;
+    text-align: center;
+} 
